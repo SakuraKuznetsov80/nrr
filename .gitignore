@@ -1,0 +1,6 @@
+.DS_Store
+.env
+*.log
+*.pyc
+node_modules/
+dist/
